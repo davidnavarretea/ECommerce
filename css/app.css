@@ -28,7 +28,8 @@ h3{
     background-image: url(../img/principal.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 45rem;
+    background-position: 0px -110px;
+    height: 30rem;
 }
 .categorias{
     padding: 0 5rem;
